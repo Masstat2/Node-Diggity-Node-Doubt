@@ -1,19 +1,17 @@
 
-## Logo and Title
 
 <div align="center">
     <h1>Node Diggity</h1>
 </div>
 
-# Project Title
 
 Node Diggity Node Doubt
 
-## Description
+
 
 I dont know where I'm going, but I sure know where I've been.  I am very new to all this so its like a puzzle.  Eventually Ill get something out of nothing.
 
-## Installation
+
 
 Install the project with npm:
 
@@ -22,7 +20,6 @@ npm install project-name
 cd project-name
 ```
 
-## Running Tests
 
 To ensure the integrity of the project, follow these steps to run the tests:
 
@@ -52,12 +49,9 @@ To ensure the integrity of the project, follow these steps to run the tests:
 
 For further assistance, refer to the project's documentation or contact the maintainers.
 
-## License
 
-This project is licensed under the [GPL-v3](LICENSE). See the `LICENSE` file for more details on terms and conditions.
+This project is licensed under the [MIT](LICENSE). See the `LICENSE` file for more details on terms and conditions.
 
 Feel free to use and contribute to the project under these terms!
-
-## Feedback
 
 If you have any feedback, please contact us at [masstat.jv@gmail.com]
